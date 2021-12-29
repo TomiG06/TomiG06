@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomiG06
-- 👀 I’m interested in programming and data science/machine learning
+- 👀 I’m interested in programming and machine learning
 - 🌱 I’m currently learning Python and C
 
 <!---
