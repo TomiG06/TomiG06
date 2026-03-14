@@ -1,6 +1,8 @@
 Undergraduate Student @ CSE UOI
 
-I am currently working on [UniMates](https://unimates.net), a matching platform that helps students find their ideal roommates
+Exploring the stack from silicon to software.
+
+Currently working on [UniMates](https://unimates.net), a matching platform that helps students find their ideal roommates.
 
 <!---
 TomiG06/TomiG06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
